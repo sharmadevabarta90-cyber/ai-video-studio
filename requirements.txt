@@ -1,0 +1,4 @@
+streamlit
+pillow
+xai-sdk
+python-dotenv
